@@ -5,8 +5,8 @@ mean-reversion-backtest/\\
 │\\
 ├── data/\\
 ├── src/\\
-├── notebooks/\\
-├── README.md\\
+├── notebooks/\n
+├── README.md\n
 
 
 - `data/`  
