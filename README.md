@@ -1,4 +1,5 @@
 # Backtesting Mean Reversion Strategy On The S&P 500
+Implemented and backtested using Python.
 
 ### Project Structure
 ```text
