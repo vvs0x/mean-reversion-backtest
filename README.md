@@ -1,6 +1,6 @@
 # Backtesting Mean Reversion Strategy On The S&P 500
 
-## Project Structure
+### Project Structure
 ```text
 mean-reversion-backtest/
 ├── data/
