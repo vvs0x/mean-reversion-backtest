@@ -1,12 +1,12 @@
 # mean-reversion-backtest
 ## Project Structure
 
-mean-reversion-backtest/\\
-│\\
-├── data/\\
-├── src/\\
+mean-reversion-backtest/\
+│\
+├── data/\
+├── src/\
 ├── notebooks/\
-├── README.md\
+├── README.md
 
 
 - `data/`  
