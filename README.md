@@ -1,4 +1,4 @@
-# Backtesting Mean Reversion & Momentum Strategy on the S&P 500
+# Backtesting Mean Reversion Strategy on the S&P 500
 
 ## Project Structure
 ```text
